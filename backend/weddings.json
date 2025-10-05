@@ -1,0 +1,239 @@
+{
+  "eafe5ff0-4aea-4d6a-a705-aaab655595ed": {
+    "id": "eafe5ff0-4aea-4d6a-a705-aaab655595ed",
+    "user_id": "78ab1adb-86bf-4575-8655-93a0d581c234",
+    "couple_name_1": "Emilydd",
+    "couple_name_2": "James",
+    "wedding_date": "2025-08-15",
+    "venue_name": "Rosewood Manor",
+    "venue_location": "Rosewood Manor \u2022 Sonoma County, California",
+    "their_story": "Our love story began at a bookstore cafe where we both reached for the same novel. What started as a conversation about literature blossomed into a beautiful romance filled with shared adventures and dreams.",
+    "story_timeline": [
+      {
+        "year": "2020",
+        "title": "First Meeting",
+        "description": "We met at Powell's Books in Portland during a rainy afternoon, both reaching for the same copy of 'The Seven Husbands of Evelyn Hugo'.",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop"
+      },
+      {
+        "year": "2022",
+        "title": "First Trip Together",
+        "description": "Our first adventure together was a road trip along the Pacific Coast Highway, creating memories that would last a lifetime.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop"
+      },
+      {
+        "year": "2025d",
+        "title": "dd",
+        "description": "dddd",
+        "image": "https://image.png"
+      },
+      {
+        "year": "2030",
+        "title": "love",
+        "description": "ddfdf",
+        "image": "https://imgs.search.brave.com/UNkdw_PEifHmHTVq9wH509NYdvD7DqcSmZvOLmYGwtc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/NDUxNjcyOC92ZWN0/b3IvZnVycnktbGV0/dGVycy1jYXBpdGFs/LWxldHRlci1zLWls/bHVzdHJhdGlvbi5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/bDNpWFdYQjlISUU1/SHhpWTlIcjNURkxY/T1I4X1ZEN0xhdU5k/bWNTbkdocz0"
+      }
+    ],
+    "schedule_events": [
+      {
+        "time": "3:00 PM",
+        "title": "Wedding Ceremony",
+        "description": "Join us as we exchange vows in the beautiful garden pavilion surrounded by blooming roses.",
+        "location": "Rose Garden Pavilion",
+        "duration": "45 minutes",
+        "highlight": true
+      },
+      {
+        "id": "1759681773665",
+        "title": "Cocktail Reception",
+        "time": "4:00 PM",
+        "date": "",
+        "duration": "90 minutes",
+        "location": "llll",
+        "description": "Celebrate with signature cocktails and hors d'oeuvres on the vineyard terrace.",
+        "highlight": false
+      },
+      {
+        "id": "1759681816102",
+        "title": "happy",
+        "time": "happy",
+        "date": "2025-08-15",
+        "duration": "1 hour",
+        "location": "happy",
+        "description": "happy",
+        "highlight": false
+      }
+    ],
+    "gallery_photos": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "Engagement Session"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop",
+        "category": "travel",
+        "title": "Paris Adventure"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "Golden Hour"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1597248374161-426f3d6f1f6b?w=800&h=600&fit=crop",
+        "category": "travel",
+        "title": "Santorini Sunset"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+        "category": "family",
+        "title": "Family Gathering"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=800&h=600&fit=crop",
+        "category": "friends",
+        "title": "With Our Gang"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "Candid Moments"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1594736797933-d0c4a30e71a0?w=800&h=600&fit=crop",
+        "category": "travel",
+        "title": "Beach Getaway"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1606490194859-07c18c9f0968?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "The Proposal"
+      }
+    ],
+    "bridal_party": [
+      {
+        "name": "Emily Johnson",
+        "role": "Maid of Honor",
+        "relationship": "Sister & Best Friend",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b612b734?w=400&h=400&fit=crop&crop=face",
+        "description": "Sarah's older sister and lifelong confidante. Emily has been there through every milestone and couldn't be more excited to stand by Sarah's side."
+      },
+      {
+        "name": "Jessica Chen",
+        "role": "Bridesmaid",
+        "relationship": "College Roommate",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+        "description": "Met Sarah in freshman year and they've been inseparable ever since. Jessica brings laughter and adventure to every situation."
+      },
+      {
+        "name": "Amanda Rodriguez",
+        "role": "Bridesmaid",
+        "relationship": "Work Best Friend",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop&crop=face",
+        "description": "Sarah's partner-in-crime at work who became family. Amanda is known for her infectious smile and unwavering loyalty."
+      },
+      {
+        "name": "Sophie Williams",
+        "role": "Bridesmaid",
+        "relationship": "Childhood Friend",
+        "image": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?w=400&h=400&fit=crop&crop=face",
+        "description": "Friends since elementary school, Sophie knows all of Sarah's secrets and dreams. Their friendship has stood the test of time."
+      }
+    ],
+    "groom_party": [
+      {
+        "name": "David Thompson",
+        "role": "Best Man",
+        "relationship": "Brother & Confidant",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "description": "Michael's younger brother and best friend. David has always looked up to Michael and is honored to be his best man on this special day."
+      },
+      {
+        "name": "Ryan Mitchell",
+        "role": "Groomsman",
+        "relationship": "College Buddy",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+        "description": "Michael's college roommate and adventure partner. Ryan introduced Michael to rock climbing and they've been conquering peaks together ever since."
+      },
+      {
+        "name": "James Park",
+        "role": "Groomsman",
+        "relationship": "Work Colleague",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+        "description": "Started as colleagues but quickly became close friends. James is Michael's go-to person for both professional advice and weekend golf games."
+      },
+      {
+        "name": "Alex Turner",
+        "role": "Groomsman",
+        "relationship": "Childhood Friend",
+        "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=400&h=400&fit=crop&crop=face",
+        "description": "Friends since they were kids in the same neighborhood. Alex and Michael have shared countless memories and adventures growing up together."
+      }
+    ],
+    "registry_items": [
+      {
+        "store": "Williams Sonoma",
+        "description": "For all our kitchen and cooking needs as we start our married life together.",
+        "url": "https://www.williams-sonoma.com",
+        "icon": "Coffee",
+        "color": "#E8B4B8"
+      },
+      {
+        "store": "Crate & Barrel",
+        "description": "Home essentials and beautiful pieces to make our house a home.",
+        "url": "https://www.crateandbarrel.com",
+        "icon": "Home",
+        "color": "#A8C8EC"
+      },
+      {
+        "store": "Amazon",
+        "description": "Everything else we need for our new adventure together.",
+        "url": "https://www.amazon.com",
+        "icon": "Gift",
+        "color": "#F4C2A1"
+      }
+    ],
+    "honeymoon_fund": {
+      "title": "Honeymoon Fund",
+      "description": "Help us create unforgettable memories on our honeymoon to Japan. Every contribution, big or small, means the world to us!",
+      "destination": "Tokyo & Kyoto, Japan",
+      "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=400&fit=crop"
+    },
+    "faqs": [
+      {
+        "question": "What time should guests arrive?",
+        "answer": "Please arrive by 2:45 PM to allow time for seating before the 3:00 PM ceremony."
+      },
+      {
+        "question": "Is there parking available?",
+        "answer": "Yes, complimentary valet parking is available at the venue entrance."
+      },
+      {
+        "question": "Can children attend?",
+        "answer": "We love your little ones, but we've planned an adults-only celebration to allow everyone to relax and enjoy the evening."
+      }
+    ],
+    "theme": "modern",
+    "created_at": "2025-09-18T19:17:38.849399",
+    "updated_at": "2025-10-05T16:30:33.693406",
+    "shareable_id": "7703da81",
+    "important_info": {
+      "dress_code": {
+        "title": "info",
+        "description": "info",
+        "enabled": true
+      }
+    },
+    "special_roles": []
+  }
+}
